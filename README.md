@@ -6,6 +6,7 @@ Hallucination based protein design method with Alphafold2 as an oracle and SOLeN
 ```bash
 git clone https://github.com/yourusername/InSilicoEvolution.git
 cd InSilicoEvolution
+```
 
 ## Running the program
 
